@@ -3,5 +3,5 @@ def plus_two(num)
 	num 
 	puts num + 2 
 	puts num 
-	binding.pry 
+	5 binding.pry 
 end
